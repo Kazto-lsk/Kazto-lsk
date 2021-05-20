@@ -55,8 +55,8 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 ### 🗣️ I'm speak On..
 
-- 🏠 ** Club House ** - Jake's nodeBeach : About Life and work
-- 🏠 ** Club House ** - Japanese Developers Club : About Life and work.
+- 🏠 **Club House** - Jake's nodeBeach : About Life and work
+- 🏠 **Club House** - Japanese Developers Club : About Life and work.
 
 <br/>  
 
