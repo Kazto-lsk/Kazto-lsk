@@ -35,7 +35,6 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 ### 💻 Progressing project
 - 🗃️ **Komiket Pay** - Simple payment system focused on Korea's comiket
-- 📦 **Review Box** - AI project for animation and cartoon curating service
 - 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
 - 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
 <br/>
