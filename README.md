@@ -34,9 +34,9 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 
 ### 💻 Progressing project
-- 🗃️ **Komiket Pay** - Simple payment system focused on Korea's comiket
-- 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
-- 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
+- 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
+- 📈 **Machine Learning For Gamer** - Personalize game status for KartRider
+
 <br/>
 
 
@@ -49,6 +49,7 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 - 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
 - 🎤 **Muzevillage [END]** - Web site for secondary creative community
 - 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
+- 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
 
 <br/>  
 
