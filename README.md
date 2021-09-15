@@ -36,6 +36,7 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 ### 💻 Progressing project
 - 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
 - 📈 **Machine Learning For Gamer** - Personalize game status for KartRider
+- 🎙️ **mACHINE Learning For Twitch Streamer** - Personalize analytics for twitch streamer.
 
 <br/>
 
