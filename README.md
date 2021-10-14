@@ -34,9 +34,7 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 
 ### 💻 Progressing project
-- 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
-- 📈 **Machine Learning For Gamer** - Personalize game status for KartRider
-- 🎙️ **mACHINE Learning For Twitch Streamer** - Personalize analytics for twitch streamer.
+- 🗺️ ** 커플픽 ** - Disaccount tickets for couple(couple of people)
 
 <br/>
 
@@ -51,6 +49,9 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 - 🎤 **Muzevillage [END]** - Web site for secondary creative community
 - 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
 - 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
+- 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
+- 📈 **Machine Learning For Gamer** - Personalize game status for KartRid4er
+- 🎙️ **mACHINE Learning For Twitch Streamer** - Personalize analytics for twitch streamer.
 
 <br/>  
 
