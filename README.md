@@ -34,7 +34,10 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 
 ### 💻 Progressing project
--  **Streamload** - Best partner for twitch Streamer & Creator
+- **W-Archive** - Twitch auto record & archive system
+- **W-Guard & Manager** - Twitch AI chatbot & Guild system
+- **On-Stage** - Subculture communication website Project
+
 
 <br/>
 
@@ -53,6 +56,10 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 - 🗺️ **커플픽** - Disaccount tickets for couple(couple of people)
 
 <br/>  
+
+
+### Ended Or Suspended Project
+-  **Streamload** - Best partner for twitch Streamer & Creator
 
 ### 🗣️ I'm speak On..
 
