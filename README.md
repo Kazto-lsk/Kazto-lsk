@@ -34,9 +34,8 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 
 ### 💻 Progressing project
-- **W-Archive** - Twitch auto record & archive system
-- **W-Guard & Manager** - Twitch AI chatbot & Guild system
-- **On-Stage** - Subculture communication website Project
+- **W-PLAY** - Live streaming recording service via WONDER-RABBIT.
+- **W-Guard & Manager** - Live streaming chatbot & Guild system
 - **UE5 Animating** - Wonder Rabbit owned animation with owner-make trackers
 
 
@@ -61,11 +60,7 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 ### Ended Or Suspended Project
 -  **Streamload** - Best partner for twitch Streamer & Creator
-
-### 🗣️ I'm speak On..
-
-- 🏠 **Club House** - Jake's nodeBeach : About Life and work
-- 🗣️ **Developers on Node** - [KO] Work with Node
+-  **On-Stage** - Subculture communication website Project
 
 <br/>  
 
