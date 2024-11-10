@@ -35,8 +35,7 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 ### 💻 Progressing project
 - **W-PLAY** - Live streaming recording service via WONDER-RABBIT.
-- **W-Guard & Manager** - Live streaming chatbot & Guild system
-- **UE5 Animating** - Wonder Rabbit owned animation with owner-make trackers
+
 
 
 <br/>
@@ -44,16 +43,11 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 
 ### 🚧 My Side-Project
 
+- **LUNA** - Community For creators & Viewer
+- **W-PLAY** - Remote record system for streamer(Creator), manage dashboard included streaming MP4
 - 🗃️ **Komiket Pay** - Simple payment system focused on Korea's comiket
-- 📺 **Animation VOD** - Home VOD service (My hobby)
 - 🔑 **NFC OPEN DOOR** - NFC Door Control System Based on Laravel
-- 📦 **Review Box** - AI project for animation and cartoon curating service
-- 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
-- 🎤 **Muzevillage [END]** - Web site for secondary creative community
-- 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
-- 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
-- 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
-- 🗺️ **커플픽** - Disaccount tickets for couple(couple of people)
+
 
 <br/>  
 
@@ -61,6 +55,15 @@ I develop using open source or mainly develop for hobby. If you want to contact 
 ### Ended Or Suspended Project
 -  **Streamload** - Best partner for twitch Streamer & Creator
 -  **On-Stage** - Subculture communication website Project
+- **W-Guard & Manager** - Live streaming chatbot & Guild system
+- **UE5 Animating** - Wonder Rabbit owned animation with owner-make trackers
+- 💻 **MMD to UE4** - Transfer mmd to Unreal Engine 4 Automation project
+- 💬 **Twitch Chat overlay** - Personalize for twitch overlay builtin OBS
+- 🗺️ **커플픽** - Disaccount tickets for couple(couple of people)
+- 🗺️ **어디가지?** - Social Geek-Economy sharing Communuty Application project
+- 📦 **Review Box** - AI project for animation and cartoon curating service
+- 🎤 **Muzevillage** - Web site for secondary creative community
+- 📺 **Animation VOD** - Home VOD service (My hobby)
 
 <br/>  
 
